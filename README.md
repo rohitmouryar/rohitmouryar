@@ -54,20 +54,6 @@
 
 ---
 
-## 🧩 Featured Projects
-### 🔹 **Smart Irrigation System (IoT)**
-- Automated watering using soil moisture sensors  
-- Built using **Embedded C, IoT hardware**
-
-### 🔹 **Restaurant Website (MERN Stack)**
-- Online ordering, reviews, table booking  
-- Built using **React.js, Node.js, MongoDB**
-
-### 🔹 **Personal Virtual Assistant**
-- Created using **HTML, CSS, JavaScript**
-
----
-
 ## 📬 Connect With Me
 <p>
 <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
