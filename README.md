@@ -46,13 +46,19 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmaurya&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmaurya&theme=tokyonight" height="150"/>
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+<p>
+    <a href=https://github.com/rohitmouryar">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmoryar&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="rohitmouryar" height="139" />
+    </a>
+    <a href="hhttps://github.com/rohitmouryar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmouryar&layout=compact&exclude_repo=&hide=Shell&border_radius=0&theme=dark" alt="rohitmouryar" height="139" />
+    </a>
+    
 </p>
 
----
 
 ## 📬 Connect With Me
 <p>
